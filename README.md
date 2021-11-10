@@ -1,5 +1,5 @@
-# Barcode_scanner_using_Flutter
-Barcode scanner using Flutter is the project to sumbit for REVA HACKATHONS
+# QRcode_scanner_using_Flutter
+Let's build a Generate/Scan QR Codes app with Flutter with which you can share information easily with your mates.
 ### ✌&ensp;Preview
 
 |              App Preview             |
