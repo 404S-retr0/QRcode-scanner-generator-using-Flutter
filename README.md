@@ -3,6 +3,7 @@
 </p>
 <h1 align="center" >QRcode_scanner_using_Flutter</h1>
 Let's build a Generate/Scan QR Codes app with Flutter with which you can share information easily with your mates.
+
 ### ✌&ensp;Preview
 
 |              App Preview             |
