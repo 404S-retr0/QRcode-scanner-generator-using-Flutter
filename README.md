@@ -1,4 +1,4 @@
-# QRcode_scanner_using_Flutter
+# QRcode_scanner_using_Flutter <img src="https://github.com/404S-retr0/Barcode_scanner_using_Flutter/blob/main/QR-Code11-min.gif width="350"">
 Let's build a Generate/Scan QR Codes app with Flutter with which you can share information easily with your mates.
 ### ✌&ensp;Preview
 
