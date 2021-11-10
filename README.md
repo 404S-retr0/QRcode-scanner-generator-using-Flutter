@@ -24,4 +24,4 @@ Let's build a Generate/Scan QR Codes app with Flutter with which you can share i
   
   -> barcode_widget: ^1.5.0
 
-<img src="https://github.com/404S-retr0/QRcode_scanner_using_Flutter/blob/main/Screen%20Recording%20(11-Nov-21%201-31-51%20AM).gif" width="1200">
+<img src="https://github.com/404S-retr0/QRcode_scanner_using_Flutter/blob/main/Screen%20Recording%20(11-Nov-21%201-31-51%20AM).gif" width="1400">
