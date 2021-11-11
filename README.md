@@ -1,5 +1,5 @@
 
-<h1 align="center" >QRcode_scanner_using_Flutter</h1>
+<h1 align="center" >QRcode scanner/generator using Flutter</h1>
 <p align="center">
   <img width="300" src="https://github.com/404S-retr0/Barcode_scanner_using_Flutter/blob/main/QR-Code11-min.gif">
 </p>
