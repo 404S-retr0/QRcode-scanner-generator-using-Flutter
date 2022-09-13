@@ -33,3 +33,6 @@ Let's build a Generate/Scan QR Codes app with Flutter with which you can share i
 
 ->
 <a href= "https://www.linkedin.com/in/anurag-de-404s-retr0/">Anurag De</a>(me)
+
+
+<a href="https://flutterrepos.com/lib/404S-retr0-QRcode_scanner_using_Flutter-flutter-utilities">Flutterrepos</a>
